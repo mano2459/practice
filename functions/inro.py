@@ -12,8 +12,6 @@ def add():
     f.write(mark)
     f.write("\n")
 
-add()
-add()
 while True:
     add()
 
